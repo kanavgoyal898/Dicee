@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		41DA0C332C3B46C1005BC648 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		ADB0DFF922AFA6090030352D /* Dicee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dicee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADB0DFFC22AFA6090030352D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADB0E00022AFA6090030352D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		ADB0DFF022AFA6090030352D = {
 			isa = PBXGroup;
 			children = (
+				41DA0C332C3B46C1005BC648 /* README.md */,
 				ADB0DFFB22AFA6090030352D /* Dicee */,
 				ADB0DFFA22AFA6090030352D /* Products */,
 			);
